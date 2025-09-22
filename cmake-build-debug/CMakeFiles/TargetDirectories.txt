@@ -1,0 +1,3 @@
+/Users/mohammadfarhadi/Desktop/cpp_project/cmake-build-debug/CMakeFiles/SFML_Project.dir
+/Users/mohammadfarhadi/Desktop/cpp_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohammadfarhadi/Desktop/cpp_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
