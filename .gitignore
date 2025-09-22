@@ -1,1 +1,22 @@
-CMakeLists.txt
+# CLion / CMake / macOS
+cmake-build-*/
+build*/
+CMakeCache.txt
+CMakeFiles/
+.idea/
+.vscode/
+.DS_Store
+
+# Binaries & objects
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+game
+
+# Zips / archives
+*.zip
