@@ -1,5 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DSFML_DIR=/opt/homebrew/Cellar/sfml@2/2.6.2/lib/cmake/SFML -G Ninja -S /Users/mohammadfarhadi/Desktop/cpp_project -B /Users/mohammadfarhadi/Desktop/cpp_project/cmake-build-debug
--- Found SFML 2.6.2 in /opt/homebrew/Cellar/sfml@2/2.6.2/lib/cmake/SFML
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/mohammadfarhadi/Desktop/cpp_project/cmake-build-debug
